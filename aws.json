@@ -1,0 +1,556 @@
+[
+    {
+        "sourceID": "70:ee:50:1e:00:34_0",
+        "name": "NETATMO station B",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.21243,
+            "longitude": 15.61071,
+            "elevation": 55.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo",
+        "owner": "UNIS"
+    },
+    {
+        "sourceID": "70:ee:50:b0:a7:38_0",
+        "name": "NETATMO station C",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.215392,
+            "longitude": 15.630076,
+            "elevation": 33.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo",
+        "owner": "UNIS"
+    },
+    {
+        "sourceID": "70:ee:50:b0:a0:ea_0",
+        "name": "NETATMO station D",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.21773,
+            "longitude": 15.65951,
+            "elevation": 61.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo",
+        "owner": "UNIS"
+    },
+    {
+        "sourceID": "70:ee:50:b4:eb:a8_0",
+        "name": "NETATMO station E",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.225838,
+            "longitude": 15.643665,
+            "elevation": 7.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo",
+        "owner": "UNIS"
+    },
+    {
+        "sourceID": "70:ee:50:b4:eb:9e_0",
+        "name": "NETATMO station F",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.21001,
+            "longitude": 15.61572,
+            "elevation": 62.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo",
+        "owner": "UNIS"
+    },
+    {
+        "sourceID": "70:ee:50:b4:e1:c6_0",
+        "name": "NETATMO station G",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.21938,
+            "longitude": 15.67157,
+            "elevation": 9.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo",
+        "owner": "UNIS"
+    },
+    {
+        "sourceID": "70:ee:50:b4:e1:c4_0",
+        "name": "NETATMO station H",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.215409,
+            "longitude": 15.622313,
+            "elevation": 42.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo",
+        "owner": "UNIS"
+    },
+    {
+        "sourceID": "70:ee:50:b0:a0:d6_0",
+        "name": "NETATMO station I",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.21986,
+            "longitude": 15.6682,
+            "elevation": 15.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo",
+        "owner": "UNIS"
+    },
+    {
+        "sourceID": "70:ee:50:b0:a1:16_0",
+        "name": "NETATMO station J",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.219539,
+            "longitude": 15.639026,
+            "elevation": 35.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo",
+        "owner": "UNIS"
+    },
+    {
+        "sourceID": "70:ee:50:9c:e1:02_0",
+        "name": "NETATMO station K",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.171957,
+            "longitude": 15.951264,
+            "elevation": 88.3
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo",
+        "owner": "UNIS"
+    },
+    {
+        "sourceID": "70:ee:50:b9:1f:3a_0",
+        "name": "NETATMO station L",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.2121,
+            "longitude": 15.62066,
+            "elevation": 69.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo",
+        "owner": "UNIS"
+    },
+    {
+        "sourceID": "70:ee:50:b9:42:08_0",
+        "name": "NETATMO station M",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.22015,
+            "longitude": 15.66574,
+            "elevation": 14.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo",
+        "owner": "UNIS"
+    },
+    {
+        "sourceID": "70:ee:50:b9:41:bc_0",
+        "name": "NETATMO station N",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.22096,
+            "longitude": 15.65744,
+            "elevation": null
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo",
+        "owner": "UNIS"
+    },
+    {
+        "sourceID": "70:ee:50:b9:3c:62_0",
+        "name": "NETATMO station O",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.218620300293,
+            "longitude": 15.6638689041138,
+            "elevation": 27.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo",
+        "owner": "UNIS"
+    },
+    {
+        "sourceID": "70:ee:50:b9:2d:80_0",
+        "name": "NETATMO station P",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.21983,
+            "longitude": 15.66801,
+            "elevation": 0.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo",
+        "owner": "UNIS"
+    },
+    {
+        "sourceID": "70:ee:50:b9:3c:40_0",
+        "name": "NETATMO station Q",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.219894,
+            "longitude": 15.6643638,
+            "elevation": 4.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo",
+        "owner": "UNIS"
+    },
+    {
+        "sourceID": "70:ee:50:b9:21:60_0",
+        "name": "NETATMO station R",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.2906626600743,
+            "longitude": 15.5699271302455,
+            "elevation": 35.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo",
+        "owner": "UNIS"
+    },
+    {
+        "sourceID": "70:ee:50:b9:75:08_0",
+        "name": "NETATMO station S",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.2183531494102,
+            "longitude": 15.6621136788919,
+            "elevation": 28.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo",
+        "owner": "UNIS"
+    },
+    {
+        "sourceID": "70:ee:50:b9:3c:46_0",
+        "name": "NETATMO station T",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.219358431079,
+            "longitude": 15.6614941435174,
+            "elevation": 28.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo",
+        "owner": "UNIS"
+    },
+    {
+        "sourceID": "70:ee:50:b9:45:c0_0",
+        "name": "NETATMO station V",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.171037,
+            "longitude": 16.0078970000001,
+            "elevation": 36.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo",
+        "owner": "UNIS"
+    },
+    {
+        "sourceID": "70:ee:50:b9:45:d4_0",
+        "name": "NETATMO station W",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.2171096801758,
+            "longitude": 15.6729574203491,
+            "elevation": 24.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo",
+        "owner": "UNIS"
+    },
+    {
+        "sourceID": "70:ee:50:7f:e7:2e_0",
+        "name": "Netatmo station 0",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.2202792073825,
+            "longitude": 15.6671477138221,
+            "elevation": 0.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo"
+    },
+    {
+        "sourceID": "70:ee:50:2e:d7:dc_0",
+        "name": "Netatmo station 1",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.2186742,
+            "longitude": 15.6695651,
+            "elevation": 22.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo"
+    },
+    {
+        "sourceID": "70:ee:50:a9:6e:1a_0",
+        "name": "Netatmo station 2",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.225786,
+            "longitude": 15.624364,
+            "elevation": 5.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo"
+    },
+    {
+        "sourceID": "70:ee:50:a4:3f:78_0",
+        "name": "Netatmo station 3",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.21814,
+            "longitude": 15.665539,
+            "elevation": 26.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo"
+    },
+    {
+        "sourceID": "70:ee:50:64:2c:04_0",
+        "name": "Netatmo station 4",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.2228754036264,
+            "longitude": 15.6625621111494,
+            "elevation": 2.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo"
+    },
+    {
+        "sourceID": "70:ee:50:b4:db:da_0",
+        "name": "Netatmo station 5",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.2156606399552,
+            "longitude": 15.6311330939281,
+            "elevation": 61.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo"
+    },
+    {
+        "sourceID": "70:ee:50:5f:24:c8_0",
+        "name": "Netatmo station 6",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.2174366547459,
+            "longitude": 15.6282287836075,
+            "elevation": 33.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo"
+    },
+    {
+        "sourceID": "70:ee:50:b9:0e:96_0",
+        "name": "Netatmo station 7",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.217475,
+            "longitude": 15.641621,
+            "elevation": 45.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo"
+    },
+    {
+        "sourceID": "70:ee:50:a5:8e:74_0",
+        "name": "Netatmo station 8",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.2175672,
+            "longitude": 15.66305,
+            "elevation": 28.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo"
+    },
+    {
+        "sourceID": "70:ee:50:5f:01:fc_0",
+        "name": "Netatmo station 9",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.1886367797852,
+            "longitude": 15.8526363372803,
+            "elevation": 23.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo"
+    },
+    {
+        "sourceID": "70:ee:50:59:07:72_0",
+        "name": "Netatmo station 10",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.1792514,
+            "longitude": 15.858052,
+            "elevation": 161.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo"
+    },
+    {
+        "sourceID": "70:ee:50:29:2a:0c_0",
+        "name": "Netatmo station 11",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.217216,
+            "longitude": 15.6123136,
+            "elevation": 23.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo"
+    },
+    {
+        "sourceID": "70:ee:50:b8:f2:a6_0",
+        "name": "Netatmo station 12",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.21601,
+            "longitude": 15.624792,
+            "elevation": 37.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo"
+    },
+    {
+        "sourceID": "70:ee:50:52:e0:8c_0",
+        "name": "Netatmo station 13",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.2179759118062,
+            "longitude": 15.6445712825378,
+            "elevation": 37.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo"
+    },
+    {
+        "sourceID": "70:ee:50:b5:3d:50_0",
+        "name": "Netatmo station 14",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.220418,
+            "longitude": 15.656573,
+            "elevation": 1.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo"
+    },
+    {
+        "sourceID": "70:ee:50:73:d5:7e_0",
+        "name": "Netatmo station 15",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.234737,
+            "longitude": 15.328219,
+            "elevation": 164.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo"
+    },
+    {
+        "sourceID": "70:ee:50:b4:f4:a4_0",
+        "name": "Netatmo station 16",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.250449018852,
+            "longitude": 15.4302275866676,
+            "elevation": 0.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo"
+    },
+    {
+        "sourceID": "70:ee:50:9c:ff:08_0",
+        "name": "Netatmo station 17",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.2505690368871,
+            "longitude": 15.4407527611656,
+            "elevation": 5.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo"
+    },
+    {
+        "sourceID": "70:ee:50:af:65:6c_0",
+        "name": "Netatmo station 18",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.2505690368871,
+            "longitude": 15.4407527611656,
+            "elevation": 5.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo"
+    },
+    {
+        "sourceID": "70:ee:50:b9:41:98_0",
+        "name": "Netatmo station 19",
+        "startDate": "2026-08-08",
+        "coordinates": {
+            "latitude": 78.2377243041992,
+            "longitude": 15.4468450546265,
+            "elevation": 132.0
+        },
+        "sourceType": "aws",
+        "type": "aws",
+        "dataProvider": "netatmo"
+    }
+]
